@@ -22,3 +22,15 @@ tb_knn_bram_top.v
 ## FPGA
 Target Device:
 xc7a100tcsg324-1
+
+## Nearest Neighbor Search Result
+
+Query Vector:
+(10,10,10,11)
+
+Nearest Index:
+13
+
+Minimum Distance:
+1
+
