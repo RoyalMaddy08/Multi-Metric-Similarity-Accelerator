@@ -7,33 +7,7 @@
 // Design Name:
 // Module Name: euclidean_knn_top
 // Description:
-// BRAM-Based Euclidean Distance KNN Accelerator
-//////////////////////////////////////////////////////////////////////////////////
-
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: National Institute of Technology Calicut
-// Engineer: Nambiar Akshay
-//
-// Create Date: 23.06.2026
-// Design Name: Sliding Window KNN Accelerator
-// Module Name: euclidean_knn_top
-//
-// Description:
-// BRAM-Based Euclidean Distance KNN Accelerator
-//
-// Dataset:
-// 97 Sliding-Window Conductance Vectors
-//
-// Retrieval Method:
-// Running-Minimum Search (Option-B)
-//
-// Stores ONLY:
-//   - Current minimum distance
-//   - Current nearest neighbour index
-//
-// Does NOT store all 97 distances.
-//
+// 
 //////////////////////////////////////////////////////////////////////////////////
 
 module euclidean_knn_top(
